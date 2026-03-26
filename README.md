@@ -1,6 +1,6 @@
-# Hi, I'm Dhanya Thakur 👋
+# Hi, I'm Dhanya Thakur 
 
-🎓 Branch: (Your Branch)
-📚 Year: First Year
+Branch:CSE(AIML)
+Year: First Year
 
-💡 I want to learn Artificial Intelligence and Machine Learning and build practical projects.I have keen interest in learning new things about machines and how theyh operate
+ I want to learn Artificial Intelligence and Machine Learning and build practical projects.I have keen interest in learning new things about machines and how theyh operate
